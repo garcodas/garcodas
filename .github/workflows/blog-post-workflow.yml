@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: "03 05 19 * *"
+    - cron: "30 06 15 * *"
 permissions:
   contents: write # To write the generated contents to the readme
 jobs:
