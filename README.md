@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Clonador y Fusionador de Playlists para Spotify](https://dev.to/garcodas/clonador-y-fusionador-de-playlists-para-spotify-k45)
 - [MULTIPLES LLAVES SSH PARA DIFERENTES CUENTAS EN GITHUB](https://dev.to/garcodas/multiples-llaves-ssh-para-diferentes-cuentas-en-github-1e97)
 - [ROBOT PARA DECLARACIÓN EN LA SAT](https://dev.to/garcodas/robot-para-declaracion-en-la-sat-58cm)
 <!-- BLOG-POST-LIST:END -->
