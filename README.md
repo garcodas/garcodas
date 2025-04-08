@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emanuel Garcia</h1>
-<h3 align="center">A passionate Full Stack developer from Guatemala, I'm 22 years old, I like to create and learn new things about programming, DevOps, AI and Machine Learning.</h3>
+<h3 align="center">A passionate Full Stack developer from Guatemala, I like to create and learn new things about programming, DevOps, AI and Cloud.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garcodas&label=Profile%20views&color=0e75b6&style=flat" alt="garcodas" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/garcodas" target="blank"><img src="https://img.shields.io/twitter/follow/garcodas?logo=twitter&style=for-the-badge" alt="garcodas" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps, AI and Machine Learning.**
+- 🌱 I’m currently learning **DevOps, AI and Cloud.**
 
 - 📝 I regularly write articles on [https://dev.to/garcodas](https://dev.to/garcodas)
 
